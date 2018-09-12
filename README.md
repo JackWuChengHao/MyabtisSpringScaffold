@@ -1,0 +1,2 @@
+# MyabtisSpringScaffold
+spring与mybatis脚手架工程
